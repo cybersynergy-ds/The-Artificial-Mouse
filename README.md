@@ -43,4 +43,3 @@ Move cursor based on finger position.
 Simulate mouse clicks, right-clicks, or scrolling based on finger gestures.
 Display FPS and continuously update the webcam feed.
 Exit when the "q" key is pressed.
-Summary:
